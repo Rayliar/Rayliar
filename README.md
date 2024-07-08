@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Rayliar
-- 👀 I’m interested in python based projects.
-- 🌱 I’m currently learning creating bots for different platforms using python.
+- 👀 I’m interested in Python based projects.
+- 🌱 I’m currently learning to create bots for different platforms using Python.
 - 💞️ I’m looking to collaborate on pyhtone based projects and learning.
-- 📫 How to reach me, personally DM on Instagram.(@rayliar).
+  
 
 <!---
 Rayliar/Rayliar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
